@@ -1,0 +1,26 @@
+System Design of Travel Website
+
+In this phase , a logical system is built which fulfils	 the given requirement. Design 	phase of software devlopment deals with transforming the 
+Client 's requirement into a logically working system. Normally 	,design is performed in the following two steps:
+
+1.)Primary Design Phase:
+In this phase , the system is designed at block level. The blocks are created on  the basis of analysis done in the problem identification phase
+Different blocks are created for different functions emphasis is put on minmising the information flow between blocks . Thus ,all activites 
+which  require more interaction are kept in one block.
+
+2.)Secondanary Design Phase:
+In the secondnary phase  the detailed design of every block  is performed.
+
+
+Future work:
+
+There is scope for further devlopment and improvment of the travel website system this includes:
+
+integration with other travel websites.
+
+Additioin of new features like customer favourite place predictor which predicts the the favourite travel spots based on the past customer
+interaction
+
+Improvised website and more simplest way to operate and Book the neccesary things by adding one press feature for customer accessiblity.
+
+
